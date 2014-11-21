@@ -6,7 +6,7 @@ Lyrics to Bad Religion song:
 =======
 ![my picture](images/pic.jpg)
 
-Image Credit: Jason :sparkling heart: Torres 
+Image Credit: Jason :sparkling_heart: Torres 
 
 ### Well hello there!
 
