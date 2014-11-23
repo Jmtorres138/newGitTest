@@ -12,6 +12,8 @@ Image Credit: Jason :sparkling_heart: Torres
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
+The *Bad Religion* song *"You are the government"* on the album [Suffer](http://en.wikipedia.org/wiki/Suffer_%28album%29).
+
 Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
 
 After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
