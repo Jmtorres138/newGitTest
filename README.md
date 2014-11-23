@@ -4,7 +4,7 @@ newGitTest
 Lyrics to Bad Religion song:
 "You are the government" 
 =======
-![my picture](images/pic.jpg)
+![my picture](images/br.jpg)
 
 Image Credit: Jason :sparkling_heart: Torres 
 
