@@ -6,7 +6,7 @@ Lyrics to **_Bad Religion_** song:
 =======
 ![my picture](images/br.jpg)
 
-Image Credit: Jason :sparkling_heart: Torres 
+Image Credit: Jason Torres :bangbang:
 
 
 The *Bad Religion*:bangbang: song *"You are the government"* on the album [Suffer](link1).
